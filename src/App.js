@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Hello Earth</h1>
       <h2>Welcome to my app :)</h2>
+      <p>@copyright</p>
     </div>
   );
 }
